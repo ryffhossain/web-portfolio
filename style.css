@@ -40,7 +40,16 @@ section{
 p{
     color: rgb(139, 134, 134);
 }
+.dream-area{
+    padding: 70px;
+    display: flex;
+}
+
+.half-width2 img {
+    width: 100%;   
+}
 .bottom{
-    margin: 10px;
+    margin: 15px;
+    padding-top: 20px;
 }
 
