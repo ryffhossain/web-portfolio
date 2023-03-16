@@ -41,6 +41,9 @@ p{
     color: rgb(139, 134, 134);
 }
 .dream-area{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
     padding: 70px;
     display: flex;
 }
