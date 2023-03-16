@@ -8,8 +8,7 @@ h1{
 }
 h2{
     font-size: 30px;
-    margin: 20px;
-    padding-top: 20px;
+   
 }
 .name-color{
     color: #00ffff9d;
@@ -41,7 +40,7 @@ section{
 p{
     color: rgb(139, 134, 134);
 }
-.half-width{
-    padding-top: 5px;
+.bottom{
+    margin: 10px;
 }
 
