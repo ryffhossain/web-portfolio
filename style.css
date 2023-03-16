@@ -6,6 +6,11 @@ body{
 h1{
     font-size: 35px;
 }
+h2{
+    font-size: 30px;
+    margin: 20px;
+    padding-right: 10px;
+}
 .name-color{
     color: #00ffff9d;
 }
@@ -32,6 +37,9 @@ section{
     border-radius: 10px;
     color: aliceblue;
     font: 900px;
+}
+p{
+    color: rgb(139, 134, 134);
 }
 
 
